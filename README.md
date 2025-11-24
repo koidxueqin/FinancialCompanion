@@ -6,3 +6,6 @@ The core functionality of the application includes personalized budgeting tools 
 The educational component of the application includes curated financial content and interactive quizzes that enhance the user’s understanding of topics such as saving, investment, and risk management. A unique gamified feature, an AI-based virtual pet acts as a motivational tool. The pet grows and evolves as the user meets budgeting goals and completes financial tasks. Users earn in-game currency that can be used to purchase virtual items for their pet, thereby promoting sustained engagement.
 
 Notifications and reminders are integrated to help users stay on track with their goals without feeling overwhelmed or judged. Altogether, Financial Companion offers a holistic approach to financial planning for young adults that is practical, enjoyable, and educational.
+
+**Project Status**
+This app was developed as a paid client project. The concept and requirements were provided by the client, and I was responsible for designing and implementing the app in Flutter.
